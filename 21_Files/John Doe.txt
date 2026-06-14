@@ -1,0 +1,7 @@
+
+John Doe is a nice guy. He lives in Nyc and he works with python
+His faourite package is Pandas
+
+
+John Doe initially live in Pheonix, Arizona. He is a very cool guy
+
